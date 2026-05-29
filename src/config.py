@@ -126,6 +126,7 @@ config = {
             "discord": "https://discord.gg/vVyCatEBgA",
             "sponsor": "https://ko-fi.com/bnanz",
             "share": "Download from https://github.com/BnanZ0/ok-nte",
+            "qq_group": "https://qm.qq.com/q/oGZrHNqyXe",
             "faq": "https://github.com/BnanZ0/ok-nte",
         }
     },
