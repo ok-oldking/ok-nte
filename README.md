@@ -148,7 +148,7 @@ All issues and consequences arising from the use of this software are not relate
 
 ## 💬 社区与交流
 
-*   **QQ 用户群**: `1090560071`
+*   **QQ 用户群**: `1105569444`
 *   **QQ 开发者群**: `1087276729`
 *   **QQ 频道**: [点击加入]()
 *   **Discord**: [https://discord.gg/vVyCatEBgA](https://discord.gg/vVyCatEBgA)
