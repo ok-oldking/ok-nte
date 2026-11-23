@@ -83,8 +83,8 @@ or consequences are not associated with this software.
 * **[GitHub](https://github.com/BnanZ0/ok-nte/releases)**: 官方发布页，全球访问速度快。
 * **[Mirror酱](https://mirrorchyan.com/zh/projects?rid=ok-nte&channel=stable)**: 国内镜像，下载可能需要购买其平台的
   CD-KEY。
-* **[百度网盘](https://pan.baidu.com/s/102Mh1djq2B1T-cIJhct9Gg?pwd=okww)**: 免费下载
-* **[夸克网盘](https://pan.quark.cn/s/418018ddf7a0)**: 免费下载
+* **[百度网盘](https://pan.baidu.com/s/102Mh1djq2B1T-cIJhct9Gg?pwd=okww)**（提取码 `okww`）
+* **[夸克网盘](https://pan.quark.cn/s/24433f3febc1)**（下载需登录，文件位于 `ok-script自动化 / 异环 ok-nte`）
 
 ### 方式二：从源码运行 (适合开发者)
 
